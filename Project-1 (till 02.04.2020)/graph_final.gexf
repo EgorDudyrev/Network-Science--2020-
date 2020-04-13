@@ -1114,7 +1114,7 @@
           <attvalue for="7" value="0.00823045267489712" />
           <attvalue for="8" value="0.03571428571428571" />
           <attvalue for="9" value="0.0" />
-          <attvalue for="10" value="8" />
+          <attvalue for="10" value="7" />
           <attvalue for="11" value="5" />
           <attvalue for="12" value="5" />
           <attvalue for="13" value="BMSTU Physical Education" />
@@ -1281,11 +1281,11 @@
           <attvalue for="7" value="0.01234567901234568" />
           <attvalue for="8" value="0.014697236919459141" />
           <attvalue for="9" value="8.502533755059007e-05" />
-          <attvalue for="10" value="7" />
+          <attvalue for="10" value="8" />
           <attvalue for="11" value="8" />
           <attvalue for="12" value="8" />
           <attvalue for="13" value="Summer Camp" />
-          <attvalue for="14" value="2" />
+          <attvalue for="14" value="1" />
         </attvalues>
       </node>
       <node id="43048325" label="43048325">
@@ -1304,7 +1304,7 @@
           <attvalue for="11" value="8" />
           <attvalue for="12" value="8" />
           <attvalue for="13" value="Summer Camp" />
-          <attvalue for="14" value="2" />
+          <attvalue for="14" value="1" />
         </attvalues>
       </node>
       <node id="44200088" label="44200088">
@@ -1319,11 +1319,11 @@
           <attvalue for="7" value="0.01234567901234568" />
           <attvalue for="8" value="0.014697236919459141" />
           <attvalue for="9" value="8.502533755059007e-05" />
-          <attvalue for="10" value="7" />
+          <attvalue for="10" value="8" />
           <attvalue for="11" value="8" />
           <attvalue for="12" value="8" />
           <attvalue for="13" value="Summer Camp" />
-          <attvalue for="14" value="1" />
+          <attvalue for="14" value="2" />
         </attvalues>
       </node>
       <node id="44255693" label="44255693">
@@ -1781,7 +1781,7 @@
           <attvalue for="7" value="0.01234567901234568" />
           <attvalue for="8" value="0.014697236919459141" />
           <attvalue for="9" value="0.0001360405400809441" />
-          <attvalue for="10" value="7" />
+          <attvalue for="10" value="8" />
           <attvalue for="11" value="8" />
           <attvalue for="12" value="8" />
           <attvalue for="13" value="Summer Camp" />
@@ -2909,7 +2909,7 @@
           <attvalue for="11" value="8" />
           <attvalue for="12" value="8" />
           <attvalue for="13" value="Summer Camp" />
-          <attvalue for="14" value="1" />
+          <attvalue for="14" value="2" />
         </attvalues>
       </node>
       <node id="139692916" label="139692916">
@@ -4195,7 +4195,7 @@
           <attvalue for="7" value="0.04938271604938272" />
           <attvalue for="8" value="0.05084745762711864" />
           <attvalue for="9" value="0.00448366946683445" />
-          <attvalue for="10" value="8" />
+          <attvalue for="10" value="7" />
           <attvalue for="11" value="5" />
           <attvalue for="12" value="5" />
           <attvalue for="13" value="BMSTU Physical Education" />
@@ -4393,7 +4393,7 @@
           <attvalue for="7" value="0.00823045267489712" />
           <attvalue for="8" value="0.03571428571428571" />
           <attvalue for="9" value="0.0" />
-          <attvalue for="10" value="8" />
+          <attvalue for="10" value="7" />
           <attvalue for="11" value="5" />
           <attvalue for="12" value="5" />
           <attvalue for="13" value="BMSTU Physical Education" />
